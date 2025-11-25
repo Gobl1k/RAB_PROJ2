@@ -1,0 +1,4 @@
+C:/Users/Bad Guy/Desktop/rab_project2/build/CMakeFiles/producer.dir
+C:/Users/Bad Guy/Desktop/rab_project2/build/CMakeFiles/consumer.dir
+C:/Users/Bad Guy/Desktop/rab_project2/build/CMakeFiles/edit_cache.dir
+C:/Users/Bad Guy/Desktop/rab_project2/build/CMakeFiles/rebuild_cache.dir
